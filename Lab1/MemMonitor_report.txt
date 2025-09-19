@@ -1,0 +1,28 @@
+[3;J[H[2JPID     Name                     Memory (kB)
+---------------------------------------------------------
+1361    ds_agent                 613060
+2500    ds_am                    224052
+1406    vls_agent                159944
+5092    gc_worker                159328
+2006    vls_am                   75752
+5888    yum                      49344
+105485  tmxbc                    25840
+2454    tm_netagent              24992
+891     snmpd                    22516
+1050    httpd                    21700
+762     tuned                    19496
+763     gc_linux_servic          17988
+779     gc_linux_servic          17980
+888     himds                    17612
+787     fail2ban-server          16316
+724     polkitd                  13220
+1405    vls_agent                12856
+1360    ds_agent                 12852
+2444    tm_netagent              11884
+17103   httpd                    11860
+17104   httpd                    11860
+17105   httpd                    11860
+17107   httpd                    11860
+17106   httpd                    11848
+887     rsyslogd                 10904
+753     NetworkManager           10792
